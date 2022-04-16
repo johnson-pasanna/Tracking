@@ -1,6 +1,6 @@
 # Tracking April
 
-Data Structure and Algorithm ###JAVA
+### Data Structure and Algorithm ---- JAVA
 
 - [ ] Complete Git and GitHub Tutorial
 - [ ] Introduction to Programming - Types of Languages, Memory Management
@@ -45,3 +45,39 @@ Data Structure and Algorithm ###JAVA
 - [ ] Linked List - Singly + Doubly + Circular (Theory + Code + Implementation)
 - [ ] Linked List Interview Questions - Google, Facebook, Amazon, Microsoft, Apple, Twitter, LinkedIn
 - [ ] Stacks and Queues Complete Tutorial - Theory + Implementation + Types (Dynamic, Circular)
+
+### Data Structures + Algorithms---- Udemy
+
+- [ ] 1. Introduction
+- [ ] 2. Basic
+- [ ] 3. Big O
+- [ ] 4. How to solve coding problems
+- [ ] 5. Data structure: Intro
+- [ ] 6. Data Structure: Array
+- [ ] 7. Data Structures: Hash Tables
+- [ ] 8. Data Structures: Linked List
+- [ ] 9. Data Structure: Stacks + Queues
+- [ ] 10. Data Structure: Trees
+- [ ] 11. Data Strictires: Graphs
+- [ ] 12. Algorithm: Recursion
+- [ ] 13. Algorithm: Sorting
+- [ ] 14. Algorithm: Searching + BFS + DFS
+- [ ] 15. Algorithm: Algorithms: Dynamic Programming
+- [ ] 16. Non Technical Interview
+- [ ] 17. Offer + Negotiation
+- [ ] 18 & 19: Extras: Google , Amazon , Facebook Interview Question
+- [ ] 20. Contributing To Open Source to Gain Experience
+- [ ] 21 & 22 Extra Bits
+
+### HTML, CSS and SAAS
+
+- [ ] 1. Intro
+- [ ] 2. Natours Project - Setup and First Steps (Part 1)
+- [ ] 3. How CSS Works: A look Behind the scenes
+- [ ] 4. Introduction to SASS and NPM
+- [ ] 5. Natours Project - Using Advance CSS and SASS (Part 2)
+- [ ] 6. Natours Project - Advanced Responsive Design (Part 3)
+- [ ] 7. Trillo Project - Master Flexbox!
+- [ ] 8. A Quick Introduction to CSS grid layout
+- [ ] 9. Nexter Project - Master CSS grid layours!
+- [ ] 10. Bonus
