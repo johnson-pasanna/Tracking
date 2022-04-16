@@ -81,3 +81,83 @@
 - [ ] 8. A Quick Introduction to CSS grid layout
 - [ ] 9. Nexter Project - Master CSS grid layours!
 - [ ] 10. Bonus
+
+### JAVASCRIPT
+
+- [ ] 1 Intro
+- [ ] 2 JavaScript Fundamentals - Part 1
+- [ ] 3 JavaScript Fundamentals - Part 2
+- [ ] 4 How to navigate this course
+- [ ] 5 Developer Skills & Editor Setup
+- [ ] 6 HTML and CSS optional
+- [ ] 7 Javascript in the Browser: DOM and Events Fundamentals
+- [ ] 8 How JavaScript works behinds the scenes
+- [ ] 9 Data Structures, Modern Operators and Strings
+- [ ] 10 A closer look at Functions
+- [ ] 11 Working with Arrays
+- [ ] 12 Numbers, Dates, Intl and Timers
+- [ ] 13 Advanced DOM and Events
+- [ ] 14 Object- Oriented Programming (OOP) with Javascript
+- [ ] 15 Mapty App: OOP, Geolocation, External Libraries, and More!
+- [ ] 16 Asynchronous JavaScript: Promises, Async/Await, and AJAX
+- [ ] 17 Modern JavaScript Development: Modules, Tooking, and ...
+- [ ] 18 Forkify App: Building a Modern Application
+- [ ] 19 Setting Up Git and Deployment
+- [ ] 20 Bonus
+
+### REACT
+
+- [ ] 1 Introduction
+- [ ] 2 React Key Concepts
+- [ ] 3 React Basics
+- [ ] 4 Capstone Project: Intro + Setup
+- [ ] 5 Routine + React-Router
+- [ ] 6 Authentication + Firebase
+- [ ] 7 React Context for state Management
+- [ ] 8 Observer Pattern
+- [ ] 9 React Context Continued
+- [ ] 10 Firebase Database Storage
+- [ ] 11 CSS In-JS + Styled-Component
+- [ ] 12 Deploying with Netlify
+- [ ] 13 Reducers
+- [ ] 14 Redux
+- [ ] 15 Redux Extended Tools
+- [ ] 16 Asynchronous Redux: Redux-Thunk
+- [ ] 17 Asynchronous Redux: Redux-Saga
+- [ ] 18 Severless Function + Stripe
+- [ ] 19 Typecript Basics: Typing Monsters-Rolodex
+- [ ] 20 Typescript Advanced: Typing Redux + Crwn-Cothing
+- [ ] 21 Typescript Advanced: Typing FireBase + User Redux Files
+- [ ] 22 Typescript Advanced: Redux Store + Middleware
+- [ ] 23 Typesscript Advanced: Redux-Saga
+- [ ] 24 Typescript Adanved: Typing our crwn-clothing components
+- [ ] 25 GraphQL + Apollo Client
+- [ ] 26 Performance Optimisations
+- [ ] 27 Firebase Rule Security
+- [ ] 28 Master Project Mobile Support
+- [ ] 29 React Questions + Advice
+- [ ] 30 PWA
+- [ ] 31 Testing in React
+- [ ] 32 Webpack + Babel
+- [ ] 33 Build a GatsbyJS Blog
+- [ ] 34 Appendix 1: Key Developer Concepts
+- [ ] 35 Open Source Projects
+- [ ] 36 Bonus
+
+# 1 ## NODEJS
+
+- [ ] 1 Intro
+- [ ] 2 Indroduction to Node.js and NPM
+- [ ] 3 Introducion to Back-End Web Development
+- [ ] 4 How Node.Js Works: A look Behind the Scenes
+- [ ] 5 Optional Asyncrhonous JavaScript Promises and Aysnc/Await
+- [ ] 6 Express: Let's Start Building the Natours API!
+- [ ] 7 Introuduction to MongoDB
+- [ ] 8 Using MongoDB with Mongoose
+- [ ] 9 Error Handling with Express
+- [ ] 10 Authentication ,Autorization and security
+- [ ] 11 Modeling Data and Advanced Mongoose
+- [ ] 12 Server- Side Rendering with Pug Template
+- [ ] 13 Advance Features: Payments, Email, File Uploads
+- [ ] 14 Setting Up Git and Developement
+- [ ] 15 Bonus
