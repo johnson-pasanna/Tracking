@@ -2,7 +2,7 @@
 
 ### Data Structure and Algorithm ---- JAVA
 
-- [ ] Complete Git and GitHub Tutorial
+- [0] Complete Git and GitHub Tutorial
 - [ ] Introduction to Programming - Types of Languages, Memory Management
 - [ ] Flow of Program - Flowcharts & Pseudocode
 - [ ] Introduction to Java - Architecture & Installation
