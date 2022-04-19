@@ -3,9 +3,9 @@
 ### Data Structure and Algorithm ---- JAVA
 
 - [ ] Complete Git and GitHub Tutorial
-- [x] Introduction to Programming - Types of Languages, Memory Management
-- [x] Flow of Program - Flowcharts & Pseudocode
-- [x] Introduction to Java - Architecture & Installation
+- [ ] Introduction to Programming - Types of Languages, Memory Management
+- [ ] Flow of Program - Flowcharts & Pseudocode
+- [ ] Introduction to Java - Architecture & Installation
 - [ ] First Java Program - Input/Output, Debugging and Datatypes
 - [ ] Conditionals and Loops + Calculator Program
 - [ ] Switch Statements + Nested Case in Java
@@ -71,7 +71,7 @@
 
 ### HTML, CSS and SAAS
 
-- [ ] 1. Intro
+- [x] 1. Intro
 - [ ] 2. Natours Project - Setup and First Steps (Part 1)
 - [ ] 3. How CSS Works: A look Behind the scenes
 - [ ] 4. Introduction to SASS and NPM
