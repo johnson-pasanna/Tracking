@@ -2,8 +2,8 @@
 
 ### Data Structure and Algorithm ---- JAVA
 
-- [ ] Complete Git and GitHub Tutorial
-- [ ] Introduction to Programming - Types of Languages, Memory Management
+- [X] Complete Git and GitHub Tutorial
+- [X] Introduction to Programming - Types of Languages, Memory Management
 - [ ] Flow of Program - Flowcharts & Pseudocode
 - [ ] Introduction to Java - Architecture & Installation
 - [ ] First Java Program - Input/Output, Debugging and Datatypes
@@ -48,7 +48,7 @@
 
 ### Data Structures + Algorithms---- Udemy
 
-- [ ] 1. Introduction
+- [X] 1. Introduction
 - [ ] 2. Basic
 - [ ] 3. Big O
 - [ ] 4. How to solve coding problems
