@@ -4,13 +4,13 @@
 
 - [X] Complete Git and GitHub Tutorial
 - [X] Introduction to Programming - Types of Languages, Memory Management
-- [ ] Flow of Program - Flowcharts & Pseudocode
-- [ ] Introduction to Java - Architecture & Installation
-- [ ] First Java Program - Input/Output, Debugging and Datatypes
-- [ ] Conditionals and Loops + Calculator Program
-- [ ] Switch Statements + Nested Case in Java
-- [ ] Functions / Methods in Java
-- [ ] Introduction to Arrays and ArrayList in Java
+- [X] Flow of Program - Flowcharts & Pseudocode
+- [X] Introduction to Java - Architecture & Installation
+- [X] First Java Program - Input/Output, Debugging and Datatypes
+- [X] Conditionals and Loops + Calculator Program
+- [X] Switch Statements + Nested Case in Java
+- [X] Functions / Methods in Java
+- [X] Introduction to Arrays and ArrayList in Java
 - [ ] Linear Search Algorithm - Theory + Code + Questions
 - [ ] Binary Search Algorithm - Theory + Code
 - [ ] Binary Search Interview Questions - Google, Facebook, Amazon
@@ -49,7 +49,7 @@
 ### Data Structures + Algorithms---- Udemy
 
 - [X] 1. Introduction
-- [ ] 2. Basic
+- [X] 2. Basic
 - [ ] 3. Big O
 - [ ] 4. How to solve coding problems
 - [ ] 5. Data structure: Intro
@@ -84,7 +84,7 @@
 
 ### JAVASCRIPT
 
-- [ ] 1 Intro
+- [X] 1 Intro
 - [ ] 2 JavaScript Fundamentals - Part 1
 - [ ] 3 JavaScript Fundamentals - Part 2
 - [ ] 4 How to navigate this course
